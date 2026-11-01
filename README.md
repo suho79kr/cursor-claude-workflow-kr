@@ -2,7 +2,7 @@
 
 1인 AI 스튜디오 [세라윤](https://serayun.com)에서 실제로 쓰는 작업 흐름을 한국어로 정리한 저장소입니다.
 
-**Claude로 작업지시서를 쓰고 → Cursor · Codex로 구현하고 → 결과를 다시 Claude에게 검토받는** 방식이에요.
+**Claude로 작업지시서를 쓰고 → Cursor · Codex· Gemini로 구현하고 → 결과를 다시 Claude에게 검토받는** 방식이에요.
 
 ## 흐름
 
